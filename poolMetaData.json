@@ -1,8 +1,7 @@
-cat > poolMetaData.json << EOF
 {
 "name": "RacingPool",
 "description": "Pool ecofriendly from Navarra",
 "ticker": "RCN7J",
 "homepage": "https://racingpool.es"
 }
-EOF
+
